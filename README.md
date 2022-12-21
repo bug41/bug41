@@ -23,7 +23,7 @@
 </div>
 <div align=center>	
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />	
-	<img src="https://img.shields.io/badge/SubmitText-007ACC?style=flat&logo=SubmitText&logoColor=white" />	
+	<img src="https://img.shields.io/badge/SublimeText-007ACC?style=flat&logo=SublimeText&logoColor=white" />	
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />	
