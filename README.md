@@ -11,8 +11,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />	
 	<br>	
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -37,17 +35,15 @@
 	<p>🎨 SNS 🎨</p>
 </div>
 <div align=center>	
-	<a href="https://bug41.tistory.com">
+	<a href="https://bug41.tistory.com" target="blank">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://blog.naver.com/bugkingus">
+	<a href="https://blog.naver.com/bugkingus" target="blank">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=black" />
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug41&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=bug41&show_icons=true">
-
+<div align=center>	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug41&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=bug41&show_icons=true">
 </div>
