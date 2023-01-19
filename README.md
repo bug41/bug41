@@ -36,15 +36,14 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 	<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-	<br>	
-		
+	<br>		
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />	
 	<img src="https://img.shields.io/badge/SublimeText-007ACC?style=flat&logo=SublimeText&logoColor=white" />	
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />	
 </div>
 <br>
+
 <div align=center>
 	<p>📝 Blog</p>
 </div>
@@ -67,8 +66,7 @@
 <div align=center>	
 	<p>💲 Cryptocurrency </p>
 	<img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
-	<img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" />	
 </div>
 <div align=center>	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug41&layout=compact">
