@@ -13,14 +13,14 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />	
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />	
-	<br>	
+	<br><br>
 	<!-- Back-End -->
 	<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 	<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
-	<br>
+	<br><br>
 	<!-- SERVER -->
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
@@ -29,8 +29,7 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />	
-	
-	<br>
+	<br><br>
 	<!-- Databases -->
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
@@ -43,7 +42,7 @@
 	<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />	
 </div>
 <br>
-
+<br>
 <div align=center>
 	<p>📝 Blog</p>
 </div>
@@ -53,22 +52,26 @@
 	</a>
 	<a href="https://blog.naver.com/bugkingus" target="blank">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=black" />
-	</a>
-	<br>
+	</a>	
 </div>
-
+<br>
+<br>
 <div align=center>	
 	<p>🌐 Favorite Browser </p>
 	<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 	<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />	
 </div>
-
+<br>
+<br>
 <div align=center>	
 	<p>💲 Cryptocurrency </p>
 	<img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />
 	<img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white" />	
 </div>
+<br>
+<br>
 <div align=center>	
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug41&layout=compact">
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=bug41&show_icons=true">
 </div>
