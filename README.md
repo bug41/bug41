@@ -47,10 +47,10 @@
 	<p>📝 Blog</p>
 </div>
 <div align=center>	
-	<a href="https://bug41.tistory.com" target="blank">
+	<a href="https://bug41.tistory.com" target="_blank">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://blog.naver.com/bugkingus" target="blank">
+	<a href="https://blog.naver.com/bugkingus" target="_blank">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=black" />
 	</a>	
 </div>
