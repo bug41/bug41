@@ -48,6 +48,8 @@
 
 ## Projects
 
+<div align="center">
+
 ### 🦎 Exotiction
 
 **Exotic Pet Care & Management App**
@@ -57,15 +59,16 @@
 
 `Flutter` `Dart` `Node.js` `Express` `MySQL` `AWS` `Cloudflare R2`
 
-- 개체별 사육 기록 및 성장 관리
-- 급여 · 탈피 · 체중 · 청소 등 사육일지 관리
-- 희귀애완동물 종 정보 및 도감
-- PC Excel 기반 개체 일괄 등록
-- 사육 통계 및 리포트
-- iOS / Android 서비스 운영
-
 <br>
 
+• 개체별 사육 기록 및 성장 관리  
+• 급여 · 탈피 · 체중 · 청소 등 사육일지 관리  
+• 희귀애완동물 종 정보 및 도감  
+• PC Excel 기반 개체 일괄 등록  
+• 사육 통계 및 리포트  
+• iOS / Android 서비스 운영  
+
+</div>
 ## Links
 
 <a href="https://bug41.tistory.com">
